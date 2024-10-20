@@ -1,0 +1,17 @@
+.h1 {
+  text-align: center;
+}
+.text {
+  text-align: center;
+}
+.button {
+  padding: 5px;
+  border-radius: 20px;
+}
+.contaiener {
+  display: flex;
+  justify-content: center;
+}
+.h2 {
+  text-align: center;
+}
